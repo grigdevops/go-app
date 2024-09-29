@@ -8,7 +8,7 @@ image:
   repository: grigdocker2021/grig-go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.0"
+  tag: "11094143507"
 
 ingress:
   enabled: false
